@@ -1,0 +1,62 @@
+body{
+   background: radial-gradient(rgba(236, 225, 175, .1),rgba(73, 75, 71, .21),rgba(234, 236, 105, 0.21));
+}
+
+.header{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2,#shop{
+    text-align: right;
+    color: brown;
+    font-style: italic;  
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    margin-top: -10px;
+    text-shadow: #030303;
+    padding-right: 500px;
+}
+.flex-container{
+    display: flex;
+    row-gap: 50px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+
+.flex-item{
+    order: 2;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a{
+    color: #030303;
+    text-decoration-color: rgba(255,255,255,.5);
+    
+}
+
+p{
+    font-size: .9375em;
+    font-family: "Open Sans",sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 1.5;
+    margin: 0 0 .5em 0;
+    background-color: #ffffff;
+
+}
+
+.title{
+    background: #141611;
+
+}
