@@ -1,7 +1,10 @@
 body{
    background: radial-gradient(rgba(236, 225, 175, .1),rgba(73, 75, 71, .21),rgba(234, 236, 105, 0.21));
 }
-
+#dis{
+    
+    color: #030303;
+}
 .side-navbar{
     display: list-item;
     text-align: right;
@@ -72,7 +75,7 @@ p{
     color: #ffffff;
     line-height: 1.5;
     margin: 0 0 .5em 0;
-    background-color: #ffffff;
+    
 
 }
 
