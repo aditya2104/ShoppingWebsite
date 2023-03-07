@@ -6,7 +6,7 @@ You are here!! It means you might have visited **Game I Play and Shop**, if you 
 
 Problem statment
 =====
-Amazon Affiliate/Influncer/Content-Creator (called as "user") curates products on Amazon and shares the details to their audians through a website. Curated products and their links neeed to be avalable to the audians as soon as possible to not loose any revenue. 
+Amazon Affiliate/Influncer/Content-Creator (called as "user") curates products on Amazon and shares the details to their audience through a website. Curated products and their links neeed to be avalable to the audience as soon as possible to not loose any revenue. 
 
 ### Constrains 
 1. User don't know HTML or any automation tech :worried:
