@@ -44,7 +44,7 @@ h2,#shop{
     padding: 0;
     margin: 0;
     list-style: none;
-    margin-right: 400px;
+    --margin-right: 400px;
 
 }
 
