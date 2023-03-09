@@ -1,5 +1,5 @@
 body{
-   background: radial-gradient(rgba(236, 225, 175, .1),rgba(73, 75, 71, .21),rgba(234, 236, 105, 0.21));
+   background: radial-gradient(rgba(235, 231, 216, 0.1),rgba(73, 75, 71, .21),rgba(234, 236, 105, 0.21));
 }
 #dis{
     
@@ -31,12 +31,12 @@ body{
 }
 h2,#shop{
     text-align: right;
-    color: brown;
+    color: rgb(51, 14, 14);
     font-style: italic;  
     font-family: 'Brush Script MT', cursive;
     font-size: 50px;
     margin-top: -10px;
-    text-shadow: #030303;
+    text-shadow: #ffffff;
     padding-right: 500px;
 }
 .flex-container{
@@ -55,10 +55,12 @@ h2,#shop{
     order: 2;
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     text-align: center;
     font-weight: bolder;
+    border-radius: 20px;
+    
 }
 
 a{
