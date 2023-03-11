@@ -1,7 +1,7 @@
 ShoppingWebsite
 ======
 
-You are here!! It means you might have visited **Game I Play and Shop**, if you didn't, check it out here [Game I Play and Shop](https://aditya2104.github.io/ShoppingWebsite/). 
+You are here!! It means you might have visited **Game I Play and Shop**, if you didn't, check it out here [Game I Play and Shop](https://shop.aditya-vaddiraju.page/). 
 - This repository is a submodule of UiPath Bot and it is a private repository.
 
 Problem statment
